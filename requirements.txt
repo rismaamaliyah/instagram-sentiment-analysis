@@ -1,0 +1,22 @@
+# Scraping
+google-play-scraper
+
+# Data manipulation
+pandas
+numpy
+re
+string
+
+# Natural Language Processing
+nltk
+Sastrawi.StopWordRemover.StopWordRemoverFactory
+Sastrawi.Stemmer.StemmerFactory
+nltk.tokenize
+indo_normalizer
+langdetect
+gensim.models
+sklearn.feature_extraction.text
+sklearn.model_selection
+slearn.svm
+sklearn.ensemble
+sklearn.metrics
